@@ -1,7 +1,8 @@
-"# My Login System"  
-"A complete login system with frontend and backend authentication"  
-"## Features"  
-"- User Login"  
-"- User Registration"  
-"- Password Reset"  
-"- Responsive Design" 
+# My Login System
+A complete login system with frontend and backend authentication
+
+## Features
+- User Login
+- User Registration  
+- Password Reset
+- Responsive Design
